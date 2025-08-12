@@ -35,7 +35,23 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     
     <!-- Markdown -->
+    <!-- Markdown -->
     <script type="text/javascript" src="static/js/marked.min.js"></script>
+
+    <!-- 新增：配置 marked 自动为链接添加 target="_blank" -->
+    <script>
+
+      const renderer = new marked.Renderer();
+      renderer.link = function(href, title, text) {
+
+        const titleAttr = title ? `title="${title}"` : '';
+
+        return `<a href="${href}" ${titleAttr} target="_blank">${text}</a>`;
+      };
+
+      marked.setOptions({ renderer: renderer });
+    </script>
+
 
     <!-- Mathematics -->
     <script>
