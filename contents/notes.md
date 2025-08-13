@@ -8,7 +8,7 @@
 
 #### Robotics
 
-- **Humanoid**-[获取PDF](/documents/notes/Humanoid Teleoperation.pdf)
+- **Humanoid**-[获取PDF](/documents/notes/Humanoid-Teleoperation.pdf)
 
-- **Exoskeleton**-[获取PDF](/documents/notes/hip exoskeleton.pdf)
+- **Exoskeleton**-[获取PDF](/documents/notes/hip-exoskeleton.pdf)
 
