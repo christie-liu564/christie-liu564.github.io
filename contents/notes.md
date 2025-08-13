@@ -2,7 +2,7 @@
 
 #### Digital Robotics
 
-- **YOLO**-[获取PDF](/documents/notes/YOLO学习笔记.pdf)
+- **YOLO**-[获取PDF](/documents/notes/yolo学习笔记.pdf)
 
 - **Depth Camera**-[获取PDF](/documents/notes/深度视觉目标检测.pdf)
 
