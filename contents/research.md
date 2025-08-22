@@ -2,6 +2,8 @@
 
 #### 数智化耦合人体运动捕捉与骨肌动力学学解算平台设计
 
+**指导老师：[莫富灏](https://scholar.google.com/citations?hl=zh-CN&user=6RcdHh4AAAAJ&view_op=list_works&sortby=pubdate), 时间：2024.9 - 2025.6**
+
 - **内容：**
 
 - **贡献：**
